@@ -1,5 +1,5 @@
 {
-	"plugins": ["collapsible-chapters", "quiz"],
+	"plugins": ["collapsible-chapters"],
 	"pluginsConfig": {
 	    "quiz": {
 	            "labels": {
