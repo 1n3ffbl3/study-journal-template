@@ -1,4 +1,4 @@
-project2.md
+
 
 # Git Commands Quiz
 
@@ -20,13 +20,14 @@ project2.md
         <answer>No</answer>
     </question>
     <question>
-        <p> How many ways exist in Git to integrate changes from one branch into another: the merge and the rebase</p>
+        <p> How many ways exist in Git to integrate changes from one branch into another: the merge and the rebase?</p>
         <answer>
             <option>One</option>
             <option correct>Two</option>
             <option>Three</option>
             <option>Four</option>
         </answer>
+     </question>
         <answer>
         <p>And the ways in Git to integrate changes from one branch into another are called: </p>
             <option correct>the merge</option>

@@ -7,10 +7,10 @@
   * [Quiz](./quizzes/git-github.md)
 * [Gitbook](./concepts/gitbook.md)
 * [Making our notes](./concepts/gitbook.md)
-* [1-beginning](./PROJECTS/gitbook.md) 
-* [2-git-commands-quiz](./PROJECTS/gitbook.md)
-* [Repo](https://github.com/elewa-academy/study-journal-template)
-* [Home (your portfolio)](https://elewa-academy.github.io)
+* [1-beginning](./PROJECTS/1-beginning.md) 
+* [2-git-commands-quiz](./PROJECTS/2-git-commands-quiz.md)
+* [Repo](https://github.com/1n3ffbl3/study-journal-template)
+* [portfolio](https://1n3ffbl3.github.io)
 
 
 ___
