@@ -4,9 +4,11 @@
 * [Algorithms](./concepts/algorithms.md)
   * [Quiz](./quizzes/algorithms.md)
 * [Git & GitHub](./concepts/git-github.md)
+  * [Quiz](./quizzes/git-github.md)
 * [Gitbook](./concepts/gitbook.md)
 * [Making our notes](./concepts/gitbook.md)
-  * [Quiz](./quizzes/git-github.md)
+* [1-beginning](./PROJECTS/gitbook.md) 
+* [2-git-commands-quiz](./PROJECTS/gitbook.md)
 * [Repo](https://github.com/elewa-academy/study-journal-template)
 * [Home (your portfolio)](https://elewa-academy.github.io)
 

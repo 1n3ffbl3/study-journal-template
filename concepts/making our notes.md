@@ -5,7 +5,7 @@ Trying to do some notes.
 
 ___
 
-* [Struggle with new notes - 3/4/18](https://github.com/elewa-academy/study-journal-template/blob/master/PROJECTS/project1.md)
+* [Struggle with new notes - 3/4/18](https://github.com/elewa-academy/study-journal-template/blob/master/PROJECTS/1-beginning.md)
 
 ___
 ___

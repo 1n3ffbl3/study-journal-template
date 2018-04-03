@@ -4,7 +4,7 @@ Without gitbook I can't proceed with my course that is all I know for now. GitBo
 
 ___
 
-* [Struggle with gitbook installation- 2/4/18](https://github.com/1n3ffbl3/study-journal-template/blob/master/PROJECTS/project1.md)
+* [Struggle with gitbook installation- 2/4/18](https://github.com/1n3ffbl3/study-journal-template/blob/master/PROJECTS/1-beginning.md)
 
 ___
 ___
